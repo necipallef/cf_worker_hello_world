@@ -1,0 +1,8 @@
+{
+  "name": "cf_worker_hello_world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:necipallef/cf_worker_hello_world.git",
+  "author": "Necip Allef <necipallef@gmail.com>",
+  "license": "MIT"
+}
